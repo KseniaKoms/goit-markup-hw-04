@@ -141,10 +141,12 @@ img {
 }
 .icon-envelope {
   margin-right: 10px;
+  fill: var(--primary-text-color);
 }
 
 .icon-smartphone {
   margin-right: 10px;
+  fill: var(--primary-text-color);
 }
 
 .contact-link:hover,
